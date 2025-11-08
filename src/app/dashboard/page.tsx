@@ -19,8 +19,8 @@ const DashboardPage = async () => {
 
   return (
     <>
-      
       <div>Dashboard Page</div>
+      <div>Dashboard Page Two</div>
     </>
   )
   
